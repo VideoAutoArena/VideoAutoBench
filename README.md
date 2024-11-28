@@ -1,6 +1,6 @@
 # VideoAutoBench
 
-| [📄 Paper](https://arxiv.org/abs/2411.13281) | [🌐 Project Page](https://videoautoarena.github.io/) | [Leaderboard](https://videoautoarena.github.io/) |
+| [📄 Paper](https://arxiv.org/abs/2411.13281) | [🌐 Project Page](https://videoautoarena.github.io/) | [🏆 Leaderboard](https://videoautoarena.github.io/) |
 
 **VideoAutoBench** provides a set of challenging open-ended questions designed to evaluate multimodal chat assistants in video analysis. It blends the **user-centric evaluation** of [VideoAutoArena]() with the **efficiency and simplicity** of traditional benchmarks. 
 
