@@ -1,0 +1,5 @@
+decord
+numpy
+pillow
+openai
+torch
