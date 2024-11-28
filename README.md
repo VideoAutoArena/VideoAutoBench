@@ -147,7 +147,7 @@ Once GPT-4o judgments are generated, calculate the final scores for your model.
 
 ## 📬 Contact
 
-For any questions or inquiries, please contact us at `chiyeunglaw1@gmail.com`.
+If you would like your LMM's performance included on our [leaderboard](https://videoautoarena.github.io/), please email your judge results to us (e.g. `videoautobench.aria.selected.judge.zip`). For any questions or further inquiries, contact us at `chiyeunglaw1@gmail.com`.
 
 
 ## 📜 License
